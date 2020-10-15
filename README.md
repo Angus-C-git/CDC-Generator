@@ -1,2 +1,3 @@
-# CDC-Generator
-A CDC code generator for a spin off of message authentication codes
+# About
+
+Generates a replica of a MAC (message authentication code) known as a CDC code.
